@@ -4,17 +4,13 @@
 
 ## Explanation and Result
 
-* We started with our header and sub-heading already defined which leaves us with the body and footer to complete.
+* I started with My header and sub-heading already defined which leaves  with the body and footer to complete.
 
-* We move down our page to create three elements on the same row.
+* I move down our page to create three elements on the same row.
 
-* When we move onto the coding phase of this mini-project you will note that we will be placing these three elements into a container. This container will determine how our elements sit on the row of our web page.
+* When My move onto the coding phase of this mini-project you will note that we will be placing these three elements into a container. This container will determine how My elements sit on the row of.
 
-* Inside of our row that is highlighted in red, we see a blue highlighted box which determines how elements sit on the column.
-
-* The container which holds our column acts similar to our row container but on the opposite axis.
-
-* We repeat the steps above to create the next row of our website.
+* Inside of My row that is highlighted in red, I see a blue highlighted box which determines how elements sit on the column.
 
 * Finally, we reached the footer of our website which is simply a blocked off area at the bottom of the page.
 
